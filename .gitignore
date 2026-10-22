@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+*.zip
+*.rar
+*.tar.gz
+CK+48/
+Face expression recognition dataset/
+Facial Emotion Recognition Image Dataset/
+fer2013_data/
+unified_data/
+modelo/
